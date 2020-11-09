@@ -6,6 +6,7 @@ Fluentd Docker Image
 [![Docker Pulls](https://img.shields.io/docker/pulls/fluent/fluentd.svg)](https://hub.docker.com/r/fluent/fluentd)
 [![ImageLayers Size](https://img.shields.io/imagelayers/image-size/fluent/fluentd/latest.svg)](https://hub.docker.com/r/fluent/fluentd)
 [![ImageLayers Layers](https://img.shields.io/imagelayers/layers/fluent/fluentd/latest.svg)](https://hub.docker.com/r/fluent/fluentd)
+[![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2Fboeyeb%2Ffluentd-docker-image.svg?type=shield)](https://app.fossa.com/projects/git%2Bgithub.com%2Fboeyeb%2Ffluentd-docker-image?ref=badge_shield)
 
 ## What is Fluentd?
 
@@ -377,3 +378,7 @@ through a [GitHub issue](https://github.com/fluent/fluentd-docker-image/issues).
 [fluentd-1-7-alpine]: https://github.com/fluent/fluentd-docker-image/blob/master/v1.7/alpine/Dockerfile
 [fluentd-1-7-debian]: https://github.com/fluent/fluentd-docker-image/blob/master/v1.7/debian/Dockerfile
 [fluentd-1-7-windows]: https://github.com/fluent/fluentd-docker-image/blob/master/v1.7/windows/Dockerfile
+
+
+## License
+[![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2Fboeyeb%2Ffluentd-docker-image.svg?type=large)](https://app.fossa.com/projects/git%2Bgithub.com%2Fboeyeb%2Ffluentd-docker-image?ref=badge_large)
